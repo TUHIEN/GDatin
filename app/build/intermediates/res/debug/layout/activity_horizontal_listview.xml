@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" xmlns:app1="http://schemas.android.com/tools">
+        <org.lucasr.twowayview.TwoWayView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/lvItems"
+            style="@style/TwoWayView"
+            android:layout_width="fill_parent"
+            android:layout_height="83dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:drawSelectorOnTop="false"
+            app1:context=".Horizonal_Listview" >
+        </org.lucasr.twowayview.TwoWayView>
+</RelativeLayout>
+<!-- From: file:/C:/Users/HIENTU/Documents/GDatin/app/src/main/res/layout/activity_horizontal_listview.xml -->

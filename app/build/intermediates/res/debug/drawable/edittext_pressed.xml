@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke android:width="1dip" android:color="#FF0000" />
+</shape><!-- From: file:/C:/Users/HIENTU/Documents/GDatin/app/src/main/res/drawable/edittext_pressed.xml -->
